@@ -26,7 +26,7 @@
 * [Paso 1a: listar libros, autores, editoriales (sin back)](https://github.com/Uniandes-isis2603/TutorialesTalleres-NG-Node/wiki/frontbookpaso1)
 * [Taller 2](https://github.com/Uniandes-isis2603/TutorialesTalleres-NG-Node/wiki/taller2)
 -----
-* [Paso 1c: listar libros, autores, editoriales (con back)](https://github.com/Uniandes-isis2603/TutorialesTalleres-NG-Node/wiki/bookpaso1c)
+* [Paso 1b: listar libros, autores, editoriales (con back)](https://github.com/Uniandes-isis2603/TutorialesTalleres-NG-Node/wiki/bookpaso1c)
 * [Paso 2:  mostrar el detalle de un libro, un autor y una editorial](https://github.com/Uniandes-isis2603/TutorialesTalleres-NG-Node/wiki/paso2)
 * [Paso 3:  listar las críticas de un libro, paginar y cambiar el navbar y el footer](https://github.com/Uniandes-isis2603/TutorialesTalleres-NG-Node/wiki/paso3)
 
