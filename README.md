@@ -1,4 +1,5 @@
-* [Tutorial Básico Html](basicohtml)
+
+* [Tutorial Básico Html](https://github.com/Uniandes-isis2603/TutorialesTalleres-NG-Node/wiki/basicohtml)
 * [Tutorial Básico Bootstrap](https://github.com/Uniandes-isis2603/TutorialesTalleres-NG-Node/wiki/Tutorial-b%C3%A1sico-Bootstrap-4)
 * [Ejercicio HTML, CSS, Bootstrap](ejerciciohtml)
 -------
@@ -25,6 +26,7 @@
 * [Taller 2](taller2)
 -----
 * [Paso 1b: listar libros, autores, editoriales conexión al back](bookpaso1c)
-* [Paso 2:  mostrar el detalle de un libro, un autor y una editorial](paso2)
-* [Paso 3:  listar las críticas de un libro, paginar y cambiar el navbar y el footer](paso3)
-
+* [Paso 2: Mostrar el detalle de un libro, un autor y una editorial](paso2)
+* [Paso 3: Variantes para mostrar detalles y cambiar el header y el footer](paso3)
+----
+* [Paso 4: Crear un autor y una editorial](paso4)
