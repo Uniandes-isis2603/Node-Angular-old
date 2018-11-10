@@ -30,4 +30,4 @@
 * [Paso 3: Variantes para mostrar detalles y cambiar el header y el footer](https://github.com/Uniandes-isis2603/TutorialesTalleres-NG-Node/wiki/paso3)
 ----
 * [Paso 4: Crear un autor y una editorial](https://github.com/Uniandes-isis2603/TutorialesTalleres-NG-Node/wiki/paso4)
-* [Paso 5: Editar autor, editorial y book. Crear review y modificar autores de un libro](ttps://github.com/Uniandes-isis2603/TutorialesTalleres-NG-Node/wiki/paso5)
+* [Paso 5: Editar autor, editorial y book. Crear review y modificar autores de un libro](https://github.com/Uniandes-isis2603/TutorialesTalleres-NG-Node/wiki/paso5)
